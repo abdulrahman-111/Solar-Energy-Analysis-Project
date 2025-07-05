@@ -17,14 +17,6 @@ The **Solar Energy Analysis Project** evaluates the suitability of solar energy 
 - **Input Data**: CSV files for each site (`Site 1.csv` to `Site 5.csv`) must be in the same directory as the MATLAB script.
 - **MATLAB Toolboxes**: Ensure the Statistics and Machine Learning Toolbox is available for functions like `corrcoef` and `isoutlier`.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/solar-energy-analysis.git
-   ```
-2. Place the CSV data files (`Site 1.csv`, `Site 2.csv`, etc.) in the project directory.
-3. Open MATLAB and navigate to the project directory.
 
 ## Usage
 
@@ -45,14 +37,7 @@ The **Solar Energy Analysis Project** evaluates the suitability of solar energy 
 - **Solar System Selection**: Recommends solar systems (e.g., Monocrystalline, Thin-Film, Parabolic Trough) based on site-specific conditions like humidity, temperature, and GHI consistency.
 - **Energy Production**: Calculates energy production using the formula `Power = Efficiency x GHI x Area` and `Energy = Power x time`.
 
-## Contributing
 
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
 
 ## Authors
 
@@ -63,9 +48,7 @@ Contributions are welcome! Please follow these steps:
 - Seif Eldin Haythem
 - Yassin El Khodary
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
